@@ -1,0 +1,16 @@
+/* your styles go here */
+body{
+    background-color: lightgray;
+}
+.email{
+    color: red;
+}
+.phone{
+    color: green;
+}
+.linkedin{
+    color: navy;
+}
+.github{
+    color: black;
+}
